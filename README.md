@@ -16,7 +16,7 @@ The project demonstrates the complete Business Intelligence workflow:
 ## Dashboard Preview
 
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/DashBoard.png)
 
 ---
 
